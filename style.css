@@ -1,0 +1,304 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: #f3f3f3;
+}
+#header:after{ 
+    content: "";
+    display:block;
+    clear: both;
+            
+}
+#header_1{
+                
+             width:100%;
+             
+             float:left;
+}
+#header_1:after{
+           content: "";
+           display: block;
+           clear:both;
+}
+#header_2{
+            
+    
+}
+
+#header_1_col_1{
+    
+    height:50px;
+    float:left;
+    width:10%;
+    background-color: #0059b5;
+    color:white;
+
+}
+
+#header_1_col_2{
+     background-color: #f3f3f3;
+     height: 50px;
+    float:left;
+    width:65%;
+    
+    
+    
+}
+#header_1_col_3{
+    background-color: #0059b5;
+    height:50px;
+    float:left;
+    width:8%;
+}
+#header_1_col_4{
+    
+    background-color: #f3f3f3;    
+    height:50px;
+    float:left;
+    width:17%;
+}
+
+ .quick_links{
+    
+    
+    
+    margin-top: 15px;
+    padding-left: 30px;
+}
+#header_2_col_1{
+
+}
+.list_1 ul{   
+    
+            list-style-type:none;
+
+}
+.list_1 ul li{
+             display: inline-block;
+             padding:10px;
+             margin-top:6px;
+
+             
+}
+
+.list_1 ul li a{
+                  text-decoration: none;
+                  font-weight: bold;
+            
+}
+
+.video_links ul{   
+     
+    list-style-type:none;
+
+}
+.video_links ul li{
+     display: inline-block;
+     padding:10px;
+     padding-top: 15px;
+     margin-left:10px;
+     
+
+     
+}
+
+.video_links ul li a{
+          text-decoration: none;
+          font-weight: bold;
+          color:white;
+    
+}
+.social_links ul{   
+     
+    list-style-type:none;
+
+}
+.social_links ul li{
+     display: inline-block;
+     padding:6px;
+     
+     padding-top: 15px;
+     margin-left:8px;
+     
+
+     
+}
+
+.social_links ul li a{
+          text-decoration: none;
+          font-weight: bold;
+          color:blue;
+    
+}
+
+#header_2_col_1{
+    background-color: #002e56;
+    height: 50px;
+    width: 10%;
+    float: left;
+}
+#header_2_col_1 img{
+    margin-left: 45px;
+    height:80%;
+    padding-top: 5px;
+}
+#header_2_col_2{
+    background-color: #002e56;
+    width:73%;
+    float:left;
+    
+}
+
+#header_2_col_2 ul{
+     list-style-type:none;
+}
+
+#header_2_col_2 ul li{
+       display: inline-block;
+        padding-top: 15px;
+       
+}
+#header_2_col_2 ul li a{
+    text-decoration: none;
+    color:white;
+    font-size: 14px;
+    padding:7px 18px;
+    
+    
+
+}
+#header_2_col_2{
+     height: 50px;
+    
+    
+}
+#header_2_col_3{
+    
+    float:left;
+    height: 50px;
+    width:11%;
+    background-color: #f3f3f3;
+}
+#header_2_col_3 .sea { 
+   
+    text-decoration:none ;
+    margin-top:10px;
+    margin-left:20px;
+    color:#002e56;
+    font-size: 15px;
+    font-weight: bolder;
+    
+}
+#header_2_col_3 .sea a{
+          text-decoration:none;
+}
+#header_2_col_4{
+    float:left;
+    height:50px;
+    width:6%;
+    background-color: #002e56;
+    
+}
+
+#container{
+      
+     
+      margin:auto;
+     width:90%;
+     
+}
+#container:after{
+    display:block;
+    content:"";
+    clear:both;
+}
+#part_1{
+    position: relative;
+    float:left;
+    width:52%;
+     
+       
+}
+
+#part_1 img{
+      width:100%;
+     
+     
+}
+
+#part_2{
+             background-color: white;
+          width:20%;
+           float:left;
+           
+    
+       
+}
+#part_3{ width: 25%;
+       float: left;
+    
+       background-color: white;
+       margin-left:10px;
+       
+}
+ #part_1 .sub_part_1{
+     
+    
+    
+     
+ }
+ #part_1 .sub_part_2 {
+    
+     position: absolute;
+     
+     color:white;
+     background-color: rgba(4,46,86,0.5);
+     bottom:0px;
+     padding:30px;
+ }
+  
+  .main_image img{
+          height:26%;
+          
+ }
+ #part_2{
+     margin-left:5px;
+ }
+
+.main_2{
+    float:leftt;
+
+}
+.main_2 img{
+    float:left;
+}
+
+.main_2 .img{
+    
+}
+
+.main_2:after{
+    content:"";
+    display: block;
+    clear:both;
+}
+#part_3 h2{
+    margin:15px;
+}
+
+.main_2{
+    margin:33px;
+}
+
+
+
+
+
+
+
+
+
+
+
